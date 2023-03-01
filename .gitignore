@@ -1,0 +1,5 @@
+# .gitignore
+# Ignore everything in the root of the project
+.myenv
+myenv/*
+/myenv
